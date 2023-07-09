@@ -1,0 +1,1 @@
+window.alert("Loosu palaye ipdi emandhute irukke");
