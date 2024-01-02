@@ -106,12 +106,12 @@ inline = do not start on a new line, width is limited to what is needed
     
         */
 body{
-    background-color: plum;
+    background-color: #FF0097;
     font-family: Verdana;
     text-align: center;
 }
 form{
-    background-color: #FF0097;
+    background-color: #fff;
     max-width: 700px;
     margin : 50px auto;
     padding: 30px 20px;
